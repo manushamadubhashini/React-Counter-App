@@ -1,0 +1,21 @@
+.counter-content{
+    background-color: lightpink;
+    text-align: center;
+    padding: 1rem;
+    border: 1px solid black;
+    width: 500px;
+    height: 300px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.button{
+    font-size: 30px;
+    margin: 0 13px;
+    padding: 0 12px;
+    width: 60px;
+    background-color: #9AECDB;
+
+}
